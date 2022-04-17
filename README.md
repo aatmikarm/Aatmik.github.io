@@ -1,3 +1,3 @@
 # Aatmik.github.io
 Its Aatmik Website
-url =
+url = https://aatmikarm.github.io/Aatmik.github.io/
